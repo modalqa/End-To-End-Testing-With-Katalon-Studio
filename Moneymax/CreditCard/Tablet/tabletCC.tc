@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tabletCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a87e8c4-b1eb-464e-8ec9-54eaa6328935</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26f06fdd-1b0e-4cbd-9ea7-3187651d74e6</id>
+      <masked>false</masked>
+      <name>varFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7306353c-7732-4490-9b63-12882c12328d</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97e381b1-a36a-4513-9a1c-ef1ca65eef28</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11ef2850-b93a-48c6-9b63-5c5b502f67fe</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21fe1f4f-d909-4daa-895c-ed7c9453af49</id>
+      <masked>false</masked>
+      <name>varMonthlyIncome</name>
+   </variable>
+</TestCaseEntity>

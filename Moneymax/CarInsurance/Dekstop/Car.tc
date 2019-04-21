@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Car</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>098f62b0-824f-4f13-abab-40b1f6d86696</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b39bbf9-9471-4538-bc27-f6effca9069e</id>
+      <masked>false</masked>
+      <name>varFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18465493-8e30-4f06-bb07-7c8149722253</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4acfc564-50e1-492d-9ced-302ec1a18538</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5d1f1db-b24e-4fd0-8379-73f2184bab59</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+</TestCaseEntity>

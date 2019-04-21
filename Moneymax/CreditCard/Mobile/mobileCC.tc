@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mobileCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b2a1e03-607b-4c8e-a920-89e573e8cf99</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>778140d6-ec23-4e6f-a963-7beada7f84be</id>
+      <masked>false</masked>
+      <name>varFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a01b43c7-d3d1-45a5-8473-bc95412b90b2</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd5ab4d3-b897-422f-b4b3-5bc7a42f2e55</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de7d1e00-0158-4758-a917-67bf07bedda6</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f458f2f6-ce2f-42e7-b38d-4c62396ee331</id>
+      <masked>false</masked>
+      <name>varMonthlyIncome</name>
+   </variable>
+</TestCaseEntity>

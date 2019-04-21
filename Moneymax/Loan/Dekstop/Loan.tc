@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Loan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cef28dc-49ae-4832-a2c6-e9ba72aa4553</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6c6b2bb-a1a2-4316-823a-ebb5e3908b4b</id>
+      <masked>false</masked>
+      <name>varFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d90c6e42-01ca-4db4-ae90-3ad577315583</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a83bc4b8-2b3b-4072-95f7-5360f5b28ca8</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>436ecec7-9948-492c-8385-85bc659be675</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+</TestCaseEntity>
